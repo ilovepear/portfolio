@@ -2,4 +2,4 @@
 
 This is my personal portfolio
 
-Go to Wiki tab and find everything !
+Browse through the wiki and discover quick definitions and projects
